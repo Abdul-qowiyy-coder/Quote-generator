@@ -1,6 +1,6 @@
 let quotes = [];
 let container = document.getElementById("qoute-container");
-let text = document.getElementById('qoute-box')
+let text = document.getElementById('text-qoute')
 let author = document.getElementById('qoute-author')
 let twitter = document.getElementById('twitter')
 let next = document.getElementById('next-qoute')
